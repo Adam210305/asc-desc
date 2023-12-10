@@ -1,3 +1,9 @@
+/*
+Nama : Adam Gumilang
+NIM : 2023 0040 296
+Kelas : TI23C
+*/
+
 import java.util.Scanner;
 
 class Sorting {
